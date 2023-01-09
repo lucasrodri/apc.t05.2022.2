@@ -18,3 +18,6 @@ if flag:
     print("\nÓtimo, você acertou em", palpites, "tentativas!")
 else:
     print("\nVocê desistiu em", palpites, "tentativas!")
+    
+    
+    
