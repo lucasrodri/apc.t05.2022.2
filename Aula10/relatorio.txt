@@ -1,0 +1,6 @@
+Hortelino/45.678653/0.01
+Pernalonga/78.545678/0.02
+PapaLéguas/230.943086/0.05
+lucas/456786.538322/91.36
+Total utilizado do disco (Megabytes): 457141.705739
+Total utilizado do disco (%): 91.43
